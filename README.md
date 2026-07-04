@@ -47,3 +47,30 @@ streamlit run app.py
 - `app.py` — Main Streamlit application
 - `ocr/` — Tesseract OCR text extraction with bounding box analysis
 - `agent/` — AI agents for verdict, search, chat, comparison, history
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/SPA%201.png)
+
+### Upload & Analyze
+![Upload](screenshots/SPA%202.png)
+![Image Uploaded](screenshots/SPA%203.png)
+
+### Product Analysis
+![Verdict](screenshots/SPA%204.png)
+![Pros & Cons](screenshots/SPA%205.png)
+![Alternatives](screenshots/SPA%206.png)
+![Reviews](screenshots/SPA%207.png)
+
+### AI Chat
+![Chat](screenshots/SPA%208.png)
+![Chat Response](screenshots/SPA%209.png)
+
+### Compare Products
+![Compare](screenshots/SPA%2010.png)
+![Compare Results](screenshots/SPA%2011.png)
+![Winner](screenshots/SPA%2012.png)
+
+### History
+![History](screenshots/SPA%2013.png)
