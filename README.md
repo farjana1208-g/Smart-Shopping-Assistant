@@ -22,8 +22,8 @@ An AI-powered shopping assistant that uses **Computer Vision (OCR)** to detect p
 ## Setup
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/SmartProductAgent.git
-cd SmartProductAgent
+git clone https://github.com/farjana1208-g/Smart-Shopping-Assistant.git
+cd Smart-Shopping-Assistant
 
 ### 2. Create virtual environment
 python -m venv .venv
