@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+Pillow
+ddgs
+groq
+python-dotenv
+google-api-python-client
